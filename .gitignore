@@ -5,3 +5,4 @@ __pycache__/
 *.csv
 *.md
 *.txt
+!README.md
