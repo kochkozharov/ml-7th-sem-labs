@@ -1,0 +1,7 @@
+.venv/
+.uv-cache/
+.data_cache/
+__pycache__/
+*.csv
+*.md
+*.txt
